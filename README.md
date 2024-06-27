@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yavuz-karaca-954364225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yavuz-karaca-954364225/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14799927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14799927" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@siryavuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@siryavuz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@siryavuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@siryavuz" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@karacayavuz5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@karacayavuz5" height="30" width="40" /></a>
 <a href="https://discord.gg/QyMu5EpF8y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QyMu5EpF8y" height="30" width="40" /></a>
 </p>
